@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial_02</string>
+    <string name="textVmsg1">Message 01 Display</string>
+    <string name="textVmsg2">Message 02 Display</string>
+</resources>
